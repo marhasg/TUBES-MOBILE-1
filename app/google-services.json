@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "186642462134",
+    "firebase_url": "https://tubes-kel-4.firebaseio.com",
+    "project_id": "tubes-kel-4",
+    "storage_bucket": "tubes-kel-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186642462134:android:30c1b31aa7959e6a49fd17",
+        "android_client_info": {
+          "package_name": "com.example.tubes_kel_4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186642462134-q685u18t38c4k4ebq0b64dqo9aqbg31i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaSO-hlCxfMlfOvw37-hInGNLQtn85CDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186642462134-q685u18t38c4k4ebq0b64dqo9aqbg31i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
