@@ -7,7 +7,7 @@ import android.os.Bundle;
 public class DetailActivity extends AppCompatActivity {
 
 
-
+    private String name;
 
 
     @Override
